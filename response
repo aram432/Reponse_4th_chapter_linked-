@@ -1,0 +1,25 @@
+
+
+
+Reponse_4th_chapter
+
+Small Worlds
+
+The fourth chapter revealed a very interesting idea about networks; weak ties create stron connections. 
+A lot of people get jobs through weak connections, not through close family or friends. In the retrospect, such phenomenon
+does make sense in that job offer is rather a delicate issue and I myself would not want to risk companionship in more
+pragmatic disputes. Still, the result is quite counterintuitive - importance of weak connection is still an literal irony. 
+
+What I found meaningful about the research is that data reveals conclusions that might go against our preliminary instinct. 
+More interesting is the clustering coefficient; the idea behind clustering coefficient is quite simple, but it suggests powerful
+measure about the ties in the group. Given that weak ties make strong connections, we might be able to assess the possibility of
+stronger connection among clusters with different clustering coefficient. 
+
+Watts and Strogatz have concluded that even a few extra nodes drastically increases the connection between nodes. This might be
+a supporting intuition behind the exponential growth of the network - that above a certain threshold, power of network increases 
+drastically. 
+
+Still the idea that seems to continuously pose doubt on theory of networks (and its potentials) is the innate randomeness in the
+networks. While I do agree to the idea of randomess in network, it feels like quite a stretch to claim randomness even after the 
+network has started forming some meaningful connections. Perhaps there is a number that creates some connections after the threshold
+of nodes. 
