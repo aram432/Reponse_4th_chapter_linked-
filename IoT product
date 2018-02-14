@@ -1,0 +1,11 @@
+
+
+IoT Device: Connected Chocolate
+
+Connect temperature sensor to chocolate wrapper (ideally, chocolates that have fillings inside like Lindor balls or Ferrero Rocher - if 
+the sensor gets cheap enough)
+
+For each variety of product, set the temperature for which the filling inside are not totally solidfied (its very difficult to unsolidify
+the fillings, like nutella inside Ferrero Rocher once it congeals) 
+
+If the connection works led blink will indicate whether all chocolates are in good store. 
